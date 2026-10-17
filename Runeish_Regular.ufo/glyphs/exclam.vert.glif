@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.vert" format="2">
+  <advance width="500"/>
+  <unicode hex="FE15"/>
+  <outline>
+    <component base="exclam" xOffset="3" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>52a9e7cb</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

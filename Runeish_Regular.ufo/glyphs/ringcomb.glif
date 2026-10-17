@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <advance width="150"/>
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="0" y="817" type="line"/>
+      <point x="-113" y="717" type="line"/>
+      <point x="0" y="605" type="line"/>
+      <point x="113" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="773" type="line"/>
+      <point x="63" y="717" type="line"/>
+      <point x="0" y="656" type="line"/>
+      <point x="-63" y="717" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>52a9e7cb</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

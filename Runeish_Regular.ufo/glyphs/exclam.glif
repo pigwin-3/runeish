@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="500"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="78" y="719" type="line"/>
+      <point x="79" y="196" type="line"/>
+      <point x="179" y="196" type="line"/>
+      <point x="178" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="-9" type="line"/>
+      <point x="77" y="119" type="line"/>
+      <point x="183" y="119" type="line"/>
+      <point x="190" y="-9" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>2</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>52a9e7cb</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

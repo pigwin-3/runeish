@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="450"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="227" y="323" type="line"/>
+      <point x="439" y="496" type="line"/>
+      <point x="172" y="714" type="line"/>
+      <point x="97" y="700" type="line"/>
+      <point x="98" y="24" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="286" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="362" type="line"/>
+      <point x="172" y="623" type="line"/>
+      <point x="328" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="362" type="line"/>
+      <point x="172" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>52a9e7cb</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>&lt;default&gt;</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

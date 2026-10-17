@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="800" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Runeish_Thin.ufo" name="dd58d90b" familyname="Runeish" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Runeish_Regular.ufo" name="52a9e7cb" familyname="Runeish" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Runeish_Black.ufo" name="0ef071e5" familyname="Runeish" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Latin Core</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Core.txt</string>
+        </dict>
+      </array>
+      <key>fontra.sourceStatusFieldDefinitions</key>
+      <array>
+        <dict>
+          <key>color</key>
+          <array>
+            <real>1.0</real>
+            <real>0.0</real>
+            <real>0.0</real>
+            <real>1.0</real>
+          </array>
+          <key>isDefault</key>
+          <true/>
+          <key>label</key>
+          <string>In progress</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>color</key>
+          <array>
+            <real>1.0</real>
+            <real>0.5</real>
+            <real>0.0</real>
+            <real>1.0</real>
+          </array>
+          <key>label</key>
+          <string>Checking-1</string>
+          <key>value</key>
+          <integer>1</integer>
+        </dict>
+        <dict>
+          <key>color</key>
+          <array>
+            <real>1.0</real>
+            <real>1.0</real>
+            <real>0.0</real>
+            <real>1.0</real>
+          </array>
+          <key>label</key>
+          <string>Checking-2</string>
+          <key>value</key>
+          <integer>2</integer>
+        </dict>
+        <dict>
+          <key>color</key>
+          <array>
+            <real>0.0</real>
+            <real>0.5</real>
+            <real>1.0</real>
+            <real>1.0</real>
+          </array>
+          <key>label</key>
+          <string>Checking-3</string>
+          <key>value</key>
+          <integer>3</integer>
+        </dict>
+        <dict>
+          <key>color</key>
+          <array>
+            <real>0.0</real>
+            <real>1.0</real>
+            <real>0.5</real>
+            <real>1.0</real>
+          </array>
+          <key>label</key>
+          <string>Validated</string>
+          <key>value</key>
+          <integer>4</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="500"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="99" y="714" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="68" type="line"/>
+      <point x="173" y="68" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="406" type="line"/>
+      <point x="172" y="339" type="line"/>
+      <point x="463" y="339" type="line"/>
+      <point x="463" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="714" type="line"/>
+      <point x="174" y="714" type="line"/>
+      <point x="174" y="644" type="line"/>
+      <point x="410" y="644" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>52a9e7cb</key>
+        <string>foreground</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Black</key>
+        <string>0ef071e5</string>
+        <key>Regular</key>
+        <string>&lt;default&gt;</string>
+        <key>Thin</key>
+        <string>dd58d90b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
