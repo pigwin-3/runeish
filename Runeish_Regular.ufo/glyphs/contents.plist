@@ -70,6 +70,8 @@
     <string>exclamdouble.glif</string>
     <key>exclamsmall</key>
     <string>exclamsmall.glif</string>
+    <key>period</key>
+    <string>period.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
     <key>space</key>

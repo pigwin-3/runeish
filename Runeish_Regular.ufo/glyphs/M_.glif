@@ -6,11 +6,11 @@
     <contour>
       <point x="97" y="0" type="line"/>
       <point x="97" y="715" type="line"/>
-      <point x="345" y="153" type="line"/>
+      <point x="346" y="153" type="line"/>
       <point x="596" y="715" type="line"/>
       <point x="596" y="0" type="line"/>
       <point x="523" y="0" type="line"/>
-      <point x="523" y="371" type="line"/>
+      <point x="523" y="369" type="line"/>
       <point x="345" y="0" type="line"/>
       <point x="170" y="371" type="line"/>
       <point x="170" y="0" type="line"/>
@@ -32,6 +32,8 @@
       <dict>
         <key>Regular</key>
         <string>&lt;default&gt;</string>
+        <key>Thin</key>
+        <string>dd58d90b</string>
       </dict>
     </dict>
   </lib>
