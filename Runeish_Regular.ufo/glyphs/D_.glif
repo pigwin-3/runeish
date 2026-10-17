@@ -6,20 +6,20 @@
     <contour>
       <point x="98" y="690" type="line"/>
       <point x="98" y="26" type="line"/>
-      <point x="179" y="0" type="line"/>
-      <point x="179" y="716" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="716" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="692" type="line"/>
-      <point x="404" y="385" type="line"/>
-      <point x="500" y="386" type="line"/>
-      <point x="188" y="716" type="line"/>
+      <point x="98" y="690" type="line"/>
+      <point x="404" y="349" type="line"/>
+      <point x="500" y="350" type="line"/>
+      <point x="175" y="716" type="line"/>
     </contour>
     <contour>
-      <point x="404" y="385" type="line"/>
-      <point x="101" y="21" type="line"/>
-      <point x="188" y="0" type="line"/>
-      <point x="501" y="386" type="line"/>
+      <point x="404" y="349" type="line"/>
+      <point x="98" y="26" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="501" y="350" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,6 +38,8 @@
       <dict>
         <key>Regular</key>
         <string>&lt;default&gt;</string>
+        <key>Thin</key>
+        <string>dd58d90b</string>
       </dict>
     </dict>
   </lib>
