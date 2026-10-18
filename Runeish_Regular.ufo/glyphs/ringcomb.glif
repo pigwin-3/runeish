@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <advance width="150"/>
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="0" y="817" type="line"/>
+      <point x="113" y="717" type="line"/>
+      <point x="0" y="605" type="line"/>
+      <point x="-113" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="773" type="line"/>
+      <point x="-63" y="717" type="line"/>
+      <point x="0" y="656" type="line"/>
+      <point x="63" y="717" type="line"/>
+    </contour>
+  </outline>
+</glyph>

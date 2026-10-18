@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="wght" minimum="100" maximum="800" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Runeish_Regular.ufo" name="5e77723e" familyname="Runeish" stylename="Regular">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Runeish_wght=100.ufo" name="::fontra001" familyname="Runeish" stylename="wght=100">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Runeish_wght=800.ufo" name="::fontra002" familyname="Runeish" stylename="wght=800">
+      <location>
+        <dimension name="wght" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
