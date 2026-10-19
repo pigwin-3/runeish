@@ -8,6 +8,8 @@
     <string>A_.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>Aacute</key>
+    <string>A_acute.glif</string>
     <key>Aring</key>
     <string>A_ring.glif</string>
     <key>B</key>
@@ -74,6 +76,8 @@
     <string>exclamdouble.glif</string>
     <key>exclamsmall</key>
     <string>exclamsmall.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>period</key>
