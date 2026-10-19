@@ -62,6 +62,8 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>caroncomb.alt</key>
+    <string>caroncomb.alt.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>exclam</key>
@@ -74,6 +76,8 @@
     <string>exclamdouble.glif</string>
     <key>exclamsmall</key>
     <string>exclamsmall.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>period</key>
