@@ -9,12 +9,12 @@
         <dimension name="wght" xvalue="400"/>
       </location>
     </source>
-    <source filename="Runeish_wght=100.ufo" name="::fontra001" familyname="Runeish" stylename="wght=100">
+    <source filename="Runeish_wght=100.ufo" name="::fontra001" familyname="Runeish" stylename="Thin">
       <location>
         <dimension name="wght" xvalue="100"/>
       </location>
     </source>
-    <source filename="Runeish_wght=800.ufo" name="::fontra002" familyname="Runeish" stylename="wght=800">
+    <source filename="Runeish_wght=800.ufo" name="::fontra002" familyname="Runeish" stylename="black">
       <location>
         <dimension name="wght" xvalue="800"/>
       </location>
