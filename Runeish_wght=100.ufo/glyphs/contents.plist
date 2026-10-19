@@ -34,6 +34,8 @@
     <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>Oslash</key>
+    <string>O_slash.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Q</key>
@@ -50,6 +52,12 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
+    <key>Z</key>
+    <string>Z_.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>period</key>
