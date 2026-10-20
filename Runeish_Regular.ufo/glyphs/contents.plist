@@ -8,6 +8,8 @@
     <string>A_.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>Agrave</key>
+    <string>A_grave.glif</string>
     <key>Aring</key>
     <string>A_ring.glif</string>
     <key>B</key>
@@ -62,8 +64,14 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>acutecomb</key>
+    <string>acutecomb.glif</string>
     <key>caroncomb.alt</key>
     <string>caroncomb.alt.glif</string>
+    <key>circumflexcomb</key>
+    <string>circumflexcomb.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>exclam</key>
@@ -76,6 +84,8 @@
     <string>exclamdouble.glif</string>
     <key>exclamsmall</key>
     <string>exclamsmall.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>period</key>
