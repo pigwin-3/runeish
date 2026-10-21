@@ -10,6 +10,8 @@
     <string>A_E_.glif</string>
     <key>Aacute</key>
     <string>A_acute.glif</string>
+    <key>Acircumflex</key>
+    <string>A_circumflex.glif</string>
     <key>Agrave</key>
     <string>A_grave.glif</string>
     <key>Aring</key>
@@ -22,6 +24,12 @@
     <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>Eacute</key>
+    <string>E_acute.glif</string>
+    <key>Ecircumflex</key>
+    <string>E_circumflex.glif</string>
+    <key>Egrave</key>
+    <string>E_grave.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
