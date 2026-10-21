@@ -8,6 +8,8 @@
     <string>A_.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>Aacute</key>
+    <string>A_acute.glif</string>
     <key>Agrave</key>
     <string>A_grave.glif</string>
     <key>Aring</key>
@@ -68,6 +70,8 @@
     <string>acute.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
+    <key>ampersand</key>
+    <string>ampersand.glif</string>
     <key>caroncomb.alt</key>
     <string>caroncomb.alt.glif</string>
     <key>circumflexcomb</key>
@@ -84,6 +88,8 @@
     <string>exclamdouble.glif</string>
     <key>exclamsmall</key>
     <string>exclamsmall.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>numbersign</key>
@@ -92,6 +98,8 @@
     <string>period.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
+    <key>slash</key>
+    <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
   </dict>
