@@ -28,6 +28,8 @@
     <string>E_acute.glif</string>
     <key>Ecircumflex</key>
     <string>E_circumflex.glif</string>
+    <key>Edieresis</key>
+    <string>E_dieresis.glif</string>
     <key>Egrave</key>
     <string>E_grave.glif</string>
     <key>F</key>
@@ -82,6 +84,8 @@
     <string>acutecomb.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>asciitilde</key>
+    <string>asciitilde.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
     <key>caroncomb.alt</key>
@@ -90,6 +94,8 @@
     <string>circumflexcomb.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>dieresiscomb</key>
+    <string>dieresiscomb.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>exclam</key>
@@ -118,5 +124,9 @@
     <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
+    <key>tildecomb</key>
+    <string>tildecomb.glif</string>
   </dict>
 </plist>
