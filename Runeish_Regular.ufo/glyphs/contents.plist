@@ -74,16 +74,22 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>asterisk</key>
+    <string>asterisk.glif</string>
     <key>caroncomb.alt</key>
     <string>caroncomb.alt.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>exclam</key>
@@ -104,6 +110,8 @@
     <string>numbersign.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
     <key>slash</key>
