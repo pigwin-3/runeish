@@ -2,12 +2,13 @@
 <glyph name="gravecomb" format="2">
   <advance width="500"/>
   <unicode hex="0300"/>
+  <anchor x="126" y="556" name="_top"/>
   <outline>
     <contour>
-      <point x="104" y="571" type="line"/>
-      <point x="149" y="571" type="line"/>
-      <point x="38" y="714" type="line"/>
-      <point x="3" y="665" type="line"/>
+      <point x="92" y="571" type="line"/>
+      <point x="162" y="571" type="line"/>
+      <point x="51" y="714" type="line"/>
+      <point x="-9" y="665" type="line"/>
     </contour>
   </outline>
 </glyph>

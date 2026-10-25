@@ -8,6 +8,18 @@
     <string>E_.glif</string>
     <key>Edieresis</key>
     <string>E_dieresis.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>Igrave</key>
+    <string>I_grave.glif</string>
+    <key>Ograve</key>
+    <string>O_grave.glif</string>
+    <key>Udieresisgrave</key>
+    <string>U_dieresisgrave.glif</string>
+    <key>Ugrave</key>
+    <string>U_grave.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
     <key>period</key>
     <string>period.glif</string>
   </dict>

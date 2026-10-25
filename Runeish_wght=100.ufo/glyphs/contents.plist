@@ -24,6 +24,8 @@
     <string>H_.glif</string>
     <key>I</key>
     <string>I_.glif</string>
+    <key>Igrave</key>
+    <string>I_grave.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>K</key>
@@ -36,6 +38,8 @@
     <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>Ograve</key>
+    <string>O_grave.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
     <key>P</key>
@@ -50,6 +54,10 @@
     <string>T_.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>Udieresisgrave</key>
+    <string>U_dieresisgrave.glif</string>
+    <key>Ugrave</key>
+    <string>U_grave.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>W</key>
