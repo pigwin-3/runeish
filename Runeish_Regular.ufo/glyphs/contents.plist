@@ -38,6 +38,8 @@
     <string>G_.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>Hbar</key>
+    <string>H_bar.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>Iacute</key>
@@ -76,10 +78,14 @@
     <string>S_.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>Thorn</key>
+    <string>T_horn.glif</string>
     <key>U</key>
     <string>U_.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
+    <key>Ucircumflex</key>
+    <string>U_circumflex.glif</string>
     <key>Udieresisgrave</key>
     <string>U_dieresisgrave.glif</string>
     <key>Ugrave</key>
@@ -92,6 +98,8 @@
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Yacute</key>
+    <string>Y_acute.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
     <key>acute</key>
@@ -132,6 +140,8 @@
     <string>numbersign.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
     <key>ringcomb</key>

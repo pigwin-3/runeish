@@ -14,6 +14,8 @@
     <string>I_grave.glif</string>
     <key>Ograve</key>
     <string>O_grave.glif</string>
+    <key>Thorn</key>
+    <string>T_horn.glif</string>
     <key>Udieresisgrave</key>
     <string>U_dieresisgrave.glif</string>
     <key>Ugrave</key>

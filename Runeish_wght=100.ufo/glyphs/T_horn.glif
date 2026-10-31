@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="500"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <component base="I" yScale="0.9366254732242625" xOffset="-42" yOffset="1"/>
+    <component base="I" xScale="0.4426235195035564" xyScale="-0.8966969284101401" yxScale="0.45345217633370777" yScale="0.2257458901744287" xOffset="52" yOffset="322"/>
+    <component base="I" xScale="-0.506598997749471" xyScale="-0.8621707585606964" yxScale="0.4375932076355148" yScale="-0.25513186352096895" xOffset="208" yOffset="659"/>
+  </outline>
+</glyph>
